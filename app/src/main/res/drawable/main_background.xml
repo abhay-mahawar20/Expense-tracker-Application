@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape>
+            <solid android:color="@color/bg_cream"/>
+        </shape>
+    </item>
+    <!-- We can't easily tile vectors in older Android,
+         so we use a subtle gradient to keep it "Luxurious" -->
+    <item>
+        <shape>
+            <gradient
+                android:centerY="0.5"
+                android:endColor="#F0ECE3"
+                android:gradientRadius="500dp"
+                android:startColor="@color/bg_cream"
+                android:type="radial" />
+        </shape>
+    </item>
+</layer-list>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="100dp"
+    android:height="100dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+    <!-- Simple doodle elements -->
+    <path
+        android:pathData="M10,10 a2,2 0 1,0 4,0 a2,2 0 1,0 -4,0"
+        android:fillColor="@color/pattern_tint" />
+    <path
+        android:pathData="M80,20 l5,5 l-5,5 l-5,-5 z"
+        android:fillColor="@color/pattern_tint" />
+    <path
+        android:pathData="M30,70 q5,-5 10,0 t10,0"
+        android:strokeColor="@color/pattern_tint"
+        android:strokeWidth="1" />
+    <path
+        android:pathData="M70,80 a3,3 0 1,1 6,0 a3,3 0 1,1 -6,0"
+        android:fillColor="@color/pattern_tint" />
+</vector>

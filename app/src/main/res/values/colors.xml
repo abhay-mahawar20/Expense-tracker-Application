@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#212121</color>
+    <color name="white">#FFFFFF</color>
+
+    <!-- Luxurious Light Palette -->
+    <color name="bg_cream">#FDFCF0</color>
+    <color name="soft_gold">#D4AF37</color>
+    <color name="luxury_blue">#1B262C</color>
+    <color name="soft_teal">#79A3B1</color>
+    <color name="pale_grey">#F4F7F6</color>
+
+    <color name="text_main">#2D3436</color>
+    <color name="text_hint">#B2BEC3</color>
+
+    <color name="expense_red">#E57373</color>
+    <color name="income_green">#81C784</color>
+
+    <!-- Pattern Color (Very Faint) -->
+    <color name="pattern_tint">#0D000000</color>
+
+    <!-- Button Colors -->
+    <color name="save_btn_color">#2ECC71</color>
+    <color name="save_btn_press">#27AE60</color>
+    <color name="ripple_light">#40FFFFFF</color>
+    <color name="ripple_dark">#20000000</color>
+</resources>
